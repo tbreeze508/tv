@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CNN US" tvg-logo="https://media.cnn.com/api/v1/images/cnnplus/ott/cnn-international-carousel-logo.jpg" group-title="_NEWS",CNN US
-https://list.iptvcat.com/my_list/s/df2e2ba5f2a831991ee91470a06158ef.m3u8
+#EXTINF:-1 tvg-id="CNN International" tvg-logo="https://media.cnn.com/api/v1/images/cnnplus/ott/cnn-international-carousel-logo.jpg" group-title="_NEWS",CNN International
+http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
